@@ -170,7 +170,8 @@
     "prefer-stable": true,
     "include-path": [
         "./",
-        "./vendor/pear/net_useragent_mobile/"
+        "./vendor/pear/net_useragent_mobile/",
+        "./vendor/pear/mdb2/"
     ],
     "autoload": {
         "classmap": [
